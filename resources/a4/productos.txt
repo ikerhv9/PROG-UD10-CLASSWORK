@@ -1,0 +1,12 @@
+1, Camiseta, 4
+4, Pantalones, 10
+3, Ordenador, 20
+2, Video-consola, 20
+9, Teléfono, 5
+6, Tablet, 8
+7, Televisión, 14
+8, Monitor, 34
+5, Teclado, 12
+10, Ratón, 56
+11, Joystick, 10
+12, Juego, 2
